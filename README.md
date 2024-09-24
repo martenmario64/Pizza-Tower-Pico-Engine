@@ -8,8 +8,8 @@ A Pizza Tower Demake Featuring The Noise!
 3 - A Better Engine
 4 - More Easily Able To Mod!
 
-Check Out Pizza Tower: Pico Remix And Pizza Tower V 1.0.0 Web Port!
+Check Out Pizza Tower: Pico Remix And Pizza Tower V 1.1.0 Web Port!
 
-Pizza Tower V 1.0.0 Web Port: https://github.com/burnedpopcorn/Pizza-Tower-1.1.0-Web-Port
+Pizza Tower V 1.1.0 Web Port: https://github.com/burnedpopcorn/Pizza-Tower-1.1.0-Web-Port
 
 Pizza Tower: Pico Remix: https://github.com/martenmario64/pizza-tower-pico-remix
